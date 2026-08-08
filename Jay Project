@@ -1,0 +1,25 @@
+import java.util.Scanner; // Import the Scanner class to read user input
+
+public class AddTwoNumbers {
+    public static void main(String[] args) {
+        // Create a Scanner object to get console input
+        Scanner scanner = new Scanner(System.in);
+        
+        // Prompt user for the first number
+        System.out.print("Enter the first number: ");
+        int num1 = scanner.nextInt();
+        
+        // Prompt user for the second number
+        System.out.print("Enter the second number: ");
+        int num2 = scanner.nextInt();
+        
+        // Close the scanner to prevent memory leaks
+        scanner.close();
+        
+        // Calculate the sum
+        int sum = num1 + num2;
+        
+        // Display the final output
+        System.out.println("The sum of " + num1 + " and " + num2 + " is: " + sum);
+    }
+}
