@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>make a css website</title>
+    <link rel="stylesheet" href="New7.css">
+</head>
+<body><center>
+<h1>create a css website</h1>
+<table>
+<th>
+    <tr>
+            <th>Name</th>
+            <th>Company name</th>
+            <th>Employee id</th>
+            <th>salary</th>
+        </tr>
+    </th>
+    <tr>
+        <td>Jay prakash das </td>
+        <td>Tata consultancy service</td>
+        <td>637243</td>
+        <td>500000</td>
+    </tr>
+    <tr>
+        <td>Swadhin jena </td>
+        <td>Wipro</td>
+        <td>637244</td>
+        <td>600000</td>
+    </tr>
+    <tr>
+        <td>Rakesh kumar </td>
+        <td>Infosys</td>
+        <td>637245</td>
+        <td>700000</td>
+    </tr>
+</table>
+</body></center>
+</html>
