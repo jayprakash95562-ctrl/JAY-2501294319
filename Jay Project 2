@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first web page </title>
+    <style>
+     div{
+            border: 100px solid rgb(37, 0, 244);
+            height: 1000px;
+        }
+       h1{
+        border-color: rgb(500, 113, 3);
+        width: 100%;
+       }
+       </style>
+</head>
+
+<body>
+    <center>
+        <h1>Jay Prakash Das</h1>
+    </center>
+
+    <center>
+        <h2>Hii Dear , my name is jay prakash das , i am a web developer .</h2>
+    </center>
+    <p><big>i have studing in rajdhani engineering college </big></p>
+    <p>i am a second-year B.Tech Computer Science AI/ML Engineering student.</p>
+    <center>
+
+    </center>
+    <p> i am a web developer and i will start my coding journey in html and css and javascript and python and java and
+        c++ and c# and php and sql and many more programming languages.</p>
+    <p> i am also a stock market trader . and i have 2 years of experience.</p>
+    </center>
+    <center>
+        <h1><u>All My Stock Broker link</u></h1>
+    </center>
+    <center>1. <a href="https://www.nseindia.com/" target="_blank">Now Get Connected to - NSE India</a></center>
+    <center>2. <a href="https://www.bseindia.com/" target="_blank"> -Bombay Stock Exchange</a></center>
+    <center>3. <a href="https://www.icicidirect.com/" target="_blank"> - ICICI Direct</a></center>
+    <center>4. <a href="https://www.hdfcsec.com/" target="_blank"> -HDFC Securities</a></center>
+    <center>5. <a href="https://www.angelone.in/" target="_blank"> -Angel One</a></center>
+    <center>6. <a href="https://www.upstox.com/" target="_blank"> - Upstox</a></center>
+    <br> <br>
+    <center>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThPotSIB0xvyINVCTgvuzREMEfAhwh-Fq8hten3sEmCg&s=100"
+            alt="Jay Prakash Das" width="350">
+    </center>
+
+</body>
+
+</html>
