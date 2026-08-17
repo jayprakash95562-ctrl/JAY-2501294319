@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>create a website</title>
+    <style>
+        header.top {
+            border: 5px solid #000000;
+            background-color: #676565;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header.top img {
+            display: block;
+            margin: 0 auto;
+        }
+
+        header.top h1 {
+            font-size: 20px;
+            margin-top: 10px;
+            color: rgba(0, 0, 0, 0.635);
+        }
+
+        .box {
+            border: 2px solid rgb(255, 0, 0);
+            background-color: rgb(144, 143, 143);
+            padding: 23px;
+            margin: 4px;
+            display: inline-block;
+            width: 30%;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+
+<body>
+    <header class="top">
+        <img src="imgdd.png" alt="Jay's Website Logo" width="400" height="100">
+        <h1>Welcome to Jay's Website</h1>
+    </header>
+    <div class="container">
+        <div class="box">
+            <h1 class="heading">heading</h1>
+            <p1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam alias dolor itaque, pariatur, dicta
+                sunt molestias ab modi nemo quaerat sequi veritatis expedita aliquam recusandae magnam tempora excepturi
+                vero! Modi fugiat iure ipsa, corporis numquam, quo sit aliquid harum, veritatis consectetur amet ex
+                totam.
+            </p1>
+        </div>
+
+        <div class="box">
+            <h1 class="heading">heading</h1>
+            <p1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam alias dolor itaque, pariatur, dicta
+                sunt molestias ab modi nemo quaerat sequi veritatis expedita aliquam recusandae magnam tempora excepturi
+                vero! Modi fugiat iure ipsa, corporis numquam, quo sit aliquid harum, veritatis consectetur amet ex
+                totam.
+            </p1>
+        </div>
+
+        <div class="box">
+            <h1 class="heading">heading</h1>
+            <p1>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam alias dolor itaque, pariatur, dicta
+                sunt molestias ab modi nemo quaerat sequi veritatis expedita aliquam recusandae magnam tempora excepturi
+                vero! Modi fugiat iure ipsa, corporis numquam, quo sit aliquid harum, veritatis consectetur amet ex
+                totam.
+            </p1>
+        </div>
+
+    </div>
+</body>
+
+</html>
